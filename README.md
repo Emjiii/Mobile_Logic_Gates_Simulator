@@ -74,8 +74,6 @@ Install Expo Go  app to simulate on actual mobile device.
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Emjiii/Mobile_Logic_Gates_Simulator.git
-   cd lgs-mobile
-   npm start
    ```
 2. **Locate the project file**:
    ```bash
