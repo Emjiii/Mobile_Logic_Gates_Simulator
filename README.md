@@ -67,6 +67,8 @@ These gates form the foundation for constructing intricate circuits powering eve
 
 ## How to Run the Project
 
+**Domain Link (Web Application):** https://logic-gate-simulator-31edb.web.app
+
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Emjiii/Mobile_Logic_Gates_Simulator.git
