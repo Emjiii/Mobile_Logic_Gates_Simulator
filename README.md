@@ -70,5 +70,6 @@ These gates form the foundation for constructing intricate circuits powering eve
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Emjiii/Mobile_Logic_Gates_Simulator.git
+   cd lgs-mobile
    npm start
    ```
