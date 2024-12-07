@@ -23,7 +23,7 @@ This project demonstrates the fundamental operations of logic gates and their co
 
 The system follows a modular architecture comprising:
 
-- **Frontend**: Built with React for an interactive and responsive user interface.
+- **Frontend**: Built with React Native Expo Go for an interactive and responsive user interface.
 - **Backend**: Provides real-time data handling and logic processing, ensuring correctness and consistency.
 - **API Integration**: Connects the frontend and backend for dynamic updates and user input handling.
 
